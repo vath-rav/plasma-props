@@ -1,0 +1,3 @@
+ProductUrl=http://takeoff.sys.ds.wolseley.com/TakeOffService/takeoff/
+PricingUrl=http://takeoff.sys.ds.wolseley.com/TakeOffService/takeoff/
+TrilogyUrl=http://esb.sys.ds.wolseley.com/ESB/DocumentInterface
